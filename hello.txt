@@ -12,4 +12,5 @@ lu1
 lu3
 lu4
 lu5
+lu6
 hot-fix update
